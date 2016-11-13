@@ -1,4 +1,6 @@
-Modified Windows 10 IoT Core sample code any data string can be sent to azure
+Modified Windows 10 IoT Core sample code
+
+any data string can be sent to azure (to be detangled there)
 
 Includes GUI
 
